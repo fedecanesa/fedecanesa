@@ -2,7 +2,6 @@
 
 <h2>Wellcome to my profile 😄 </h2></br>
 <h3> About me... :open_mouth: </h3>
-
 - :bowtie: I´m almost a Psycologyst.
 
 - 🌱 I’m currently learning full stack web development.
