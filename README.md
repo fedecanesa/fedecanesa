@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center"> Hi there! 👋 I´m  Federico </h1></br>
 
-<!--
-**fedecanesa/fedecanesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Wellcome to my profile 😄 </h2></br>
+<h3> About me... :open_mouth: </h3>
 
-Here are some ideas to get you started:
+- :bowtie: I´m almost a Psycologyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning full stack web development.
+
+- :computer: **Technologies: HTML - CSS - JavaScript - Bootstrap - React JS - Git**
+
+- 🔭 I’m currently working on individuals proyects. 
+
+- 📫 How to reach me: federicocanesa@gmail.com
+
+- 😄 Pronouns: Fede.
+
+
+**If you like my profile, plis give me a follow :wave:**
