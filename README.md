@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! 👋 I´m  Federico and this is my profile :star: </h1></br>
+<h1 align="center"> Hi there! 👋 I´m  Federico & this is my profile :star: </h1></br>
 
 
 <h3> About me... </h3>
