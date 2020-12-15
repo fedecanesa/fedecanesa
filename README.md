@@ -12,4 +12,4 @@
 - 😄 Pronouns: Fede.
 
 
-**If you like my profile, plis give me a follow :wave:**
+**If you like my profile, please give me a follow :wave:**
