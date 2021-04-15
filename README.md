@@ -5,7 +5,7 @@
 
 - :books: I´m almost a Psycologyst.
 - 🌱 I’m currently learning full stack web development.
-- :mag_right: Looking for a job :chart_with_upwards_trend: to continue learning. 
+- :mag_right: Looking for a job :chart_with_upwards_trend:. 
 - :computer: **Technologies: HTML - CSS - JavaScript - Node JS - Mongo JS - Bootstrap - React JS - Git**
 - 🔭 I’m currently working on individuals proyects. 
 - 📫 How to reach me: federicocanesa@gmail.com
