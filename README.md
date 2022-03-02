@@ -10,26 +10,17 @@
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/React.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Reactjs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Materializecss.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
 
 
 ## Donde me puedes encontrar
 
-_Personal_
-* Fotos, tips y memes **[Instagram](https://www.instagram.com/iamdaguilera)**
-* Leo, comparto y aprendo en **[Twitter](https://twitter.com/davermx)**
-
 _Emprendimiento_
-* Tiendita en linea **[Office Toners](https://officetoners.com.mx)**
-  + Instagram de **[Office Toners](https://www.instagram.com/officetoners/)**
-  + Fanpage **[Office Toners](https://www.facebook.com/Officetoners1/)**
-* Implemento y Capacito **[Software Gisemx](https://daguilera.com.mx/soluciones.html)**
-  + Fanpage **[Gisemx](https://www.facebook.com/gisecancun/)**
-
-
+* Servicios de desarrollo web en **[Onetech](https://ontech.ar)**
+  + LinkedIn de **[Onetech](https://www.linkedin.com/company/onetech-ar)**
 
 
 ![GitHub stars](https://img.shields.io/github/stars/Davermx/Davermx?style=social)
