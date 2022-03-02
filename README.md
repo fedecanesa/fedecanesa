@@ -21,10 +21,3 @@
 _Emprendimiento_
 * Servicios de desarrollo web en **[Onetech](https://ontech.ar)**
   + LinkedIn de **[Onetech](https://www.linkedin.com/company/onetech-ar)**
-
-
-![GitHub stars](https://img.shields.io/github/stars/Davermx/Davermx?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Davermx/Davermx?label=Fork&style=social)
-![GitHub followers](https://img.shields.io/github/followers/Davermx?label=Follow&style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Davermx/Davermx?style=social)
-<a href="http://daguilera.com.mx"><img src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/rsz_da.png" width="65px" height="25px" align="right" /></a>
