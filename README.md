@@ -1,23 +1,10 @@
 <h1 align="center"> Hola! 👋 Soy Federico</h1></br>
 
 
- Como **Psicólogo** comence a interesarme en el ambiente de la tecnologia y termine convirtiendome en un **Full Stack Developer**, porque me di cuenta que me apasiona el mundo del desarrollo web. Busco oportunidades para aprender, apoyar, colaborar y **nunca parar de aprender.**   
+Como desarrollador front-end me apasiona crear sitios web y aplicaciones web de alto rendimiento que brinden una experiencia de usuario perfecta. Tengo experiencia en la colaboración con equipos multifuncionales, incluidos diseñadores y desarrolladores de back-end, para garantizar que el producto final cumpla con los objetivos del cliente y supere las expectativas del usuario. Mi enfoque en el diseño centrado en el usuario y la atención a Los detalles me permiten crear interfaces elegantes y funcionales que mejoran la experiencia general del usuario. 
 
-**Apps y Herramientas que uso:**  
+Conectémonos para discutir cómo puedo ayudar a su organización a alcanzar sus objetivos de desarrollo frontend. 
 
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Reactjs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
+Competente en el stack MERN. Utilizo tecnologías como HTML, CSS, JavaScript, React.js, Typescript.js, Next.js, Redux, Zustand, Material-UI, BEM, SASS, RESTful API, Postman, Git.
 
-
-## Donde me puedes encontrar
-
-_Emprendimiento_
-* Servicios de desarrollo web en **[Onetech](https://ontech.ar)**
-  + LinkedIn de **[Onetech](https://www.linkedin.com/company/onetech-ar)**
+Además tengo conocimientos de Node.js, Express.js, Nest.js y MongoDB.
