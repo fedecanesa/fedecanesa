@@ -1,10 +1,25 @@
-<h1 align="center"> Hola! 👋 Soy Federico</h1></br>
+<h1 align="center"> Hi! 👋 I´m Federico</h1></br>
 
 
-Como desarrollador front-end me apasiona crear sitios web y aplicaciones web de alto rendimiento que brinden una experiencia de usuario perfecta. Tengo experiencia en la colaboración con equipos multifuncionales, incluidos diseñadores y desarrolladores de back-end, para garantizar que el producto final cumpla con los objetivos del cliente y supere las expectativas del usuario. Mi enfoque en el diseño centrado en el usuario y la atención a Los detalles me permiten crear interfaces elegantes y funcionales que mejoran la experiencia general del usuario. 
+I am a full stack developer with over 4 years of experience, specializing in the creation and optimization of advanced web applications. My collaborative approach with interdisciplinary teams enables me to exceed established objectives and enhance the end-user experience. Committed to professional and personal growth, I actively seek new challenges that allow me to expand my technical skills, mentoring abilities, and talent management. I aspire to contribute in an environment that values innovation and the constant development of its teams. 
 
-Conectémonos para discutir cómo puedo ayudar a su organización a alcanzar sus objetivos de desarrollo frontend. 
+Proficient in the MERN stack. I use technologies like HTML, CSS, JavaScript, React.js, Typescript.js, Next.js, Redux, Zustand, Material-UI, BEM, SASS, RESTful API, Postman, Git. 
 
-Competente en el stack MERN. Utilizo tecnologías como HTML, CSS, JavaScript, React.js, Typescript.js, Next.js, Redux, Zustand, Material-UI, BEM, SASS, RESTful API, Postman, Git.
+I also have knowledge of Node.js, Express.js, Nest.js and MongoDB. 
 
-Además tengo conocimientos de Node.js, Express.js, Nest.js y MongoDB.
+#FrontendDeveloper 
+#HTML 
+#CSS 
+#JavaScript 
+#React 
+#UserExperience 
+#UserInterface 
+#WebDesign 
+#WebDevelopment 
+#ResponsiveDesign 
+#Accessibility 
+#E-commerce 
+#DigitalMarketing 
+#DesarrolloWebMovil 
+#UXDesigner 
+#FullStackDeveloper
