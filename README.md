@@ -1,25 +1,33 @@
-<h1 align="center"> Hi! 👋 I´m Federico</h1></br>
+<h1  Hi! 👋 I´m Federico</h1></br>
 
 
-I am a full stack developer with over 4 years of experience, specializing in the creation and optimization of advanced web applications. My collaborative approach with interdisciplinary teams enables me to exceed established objectives and enhance the end-user experience. Committed to professional and personal growth, I actively seek new challenges that allow me to expand my technical skills, mentoring abilities, and talent management. I aspire to contribute in an environment that values innovation and the constant development of its teams. 
+Desarrollador Full Stack con una fuerte base en frontend y más de 4 años de experiencia creando productos digitales que funcionan bien y se ven bien.
+Me apasiona construir soluciones simples para problemas complejos. Me gusta trabajar en equipo, compartir lo que sé y seguir aprendiendo todo el tiempo. Disfruto tanto del código como de entender para quién y por qué estamos desarrollando algo.
 
-Proficient in the MERN stack. I use technologies like HTML, CSS, JavaScript, React.js, Typescript.js, Next.js, Redux, Zustand, Material-UI, BEM, SASS, RESTful API, Postman, Git. 
+Actualmente me especializo en el stack MERN y en tecnologías como React, Next.js, Zustand y TypeScript, aunque también tengo experiencia en backend con Node.js, Express y Nest.js. Siempre estoy buscando mejorar tanto mis habilidades técnicas como las humanas: la mentoría, la colaboración y la claridad en los procesos son parte de mi forma de trabajar.
 
-I also have knowledge of Node.js, Express.js, Nest.js and MongoDB. 
+Busco entornos donde se valore la mejora continua, el buen diseño, la comunicación directa y la innovación.
 
-#FrontendDeveloper 
-#HTML 
-#CSS 
-#JavaScript 
-#React 
-#UserExperience 
-#UserInterface 
-#WebDesign 
-#WebDevelopment 
-#ResponsiveDesign 
-#Accessibility 
-#E-commerce 
-#DigitalMarketing 
+¿Charlamos? Me interesa conocer nuevos proyectos, personas y desafíos.
+
+Dato adicional: 
+Tengo doble ciudadania argentino-italiana. EU Citizen/Ciudadano UE.
+
+#FrontendDeveloper
+#HTML
+#CSS
+#JavaScript
+#React
+#UserExperience
+#UserInterface
+#WebDesign
+#WebDevelopment
+#ResponsiveDesign
+#Accessibility
+#E-commerce
+#MarketingDigital
 #DesarrolloWebMovil 
-#UXDesigner 
-#FullStackDeveloper
+#UXDesigner
+#FullStackDeveloper,
+#EU Citizen
+#Ciudadano UE
